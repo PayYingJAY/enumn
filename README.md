@@ -20,7 +20,7 @@ impl YourEnum {
 where `Repr` is an integer type of the right size as described in more
 detail below.
 
-## Example
+## for Example
 
 ```rust
 use enumn::N;
